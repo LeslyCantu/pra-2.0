@@ -1,1 +1,1 @@
-# pra-2.0
+Ejercicios de Práctica con Python
